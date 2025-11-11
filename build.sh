@@ -2,5 +2,4 @@
 echo "Hello from Sakthi!"
 echo "Today's date is: $(date)"
 echo "Build completed successfully!!"
-echo "Mail Succesō
-sfull"
+echo "Mail Succesōsfull"
